@@ -19,8 +19,9 @@ public class Garaje {
             return true;
         } else {
             JOptionPane.showMessageDialog(null, "LLENO");
+            return false;
         }
-        return false;
+        
     }
 
     public double entradaVehiculo() {

@@ -20,7 +20,7 @@ public class Boletin12B {
             } else {
                 JOptionPane.showMessageDialog(null, "ESPERA");
             }
-            // QUIERO SEGUIR METIENDO COCHES EN EL PARKING!!! WHILE ESTA MAL.
+            
         }while (a);
         
     }
