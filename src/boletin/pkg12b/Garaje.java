@@ -66,7 +66,7 @@ public class Garaje {
         JOptionPane.showMessageDialog(null, "Su vehiculo: " + matricula + " ha permanecido "
                 + tiempo_T + " segundos \n El precio a pagar es de: " + calculoFactura());
 
-        JOptionPane.showMessageDialog(null, "GRACIAS POR USAR O NOSO APARCADOIRO");
+        JOptionPane.showMessageDialog(null, "GRAZAS POR USAR O NOSO APARCADOIRO");
 
     }
 
